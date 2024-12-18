@@ -19,16 +19,21 @@ ul {
 }
 
 a {
-  color: currentColor;
+  /* color: currentColor; */
   text-decoration: none;
 }
 
 button {
   cursor: pointer;
+  padding: 0;
 }
 
 img {
   display: block;
   max-width: 100%;
   height: auto;
+}
+
+input {
+  padding: 0;
 }
